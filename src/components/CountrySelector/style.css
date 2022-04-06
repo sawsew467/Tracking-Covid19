@@ -1,0 +1,24 @@
+.countries__form{
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    max-width: 36rem;
+}
+.countries__label{
+    font-size: 1.4rem;
+    margin-left: 0.4rem;
+    opacity: 0.8;
+}
+.countries__select{
+    font-size: 1.6rem;
+    outline: none;
+    margin: 0.6rem 0;
+    padding: 0;
+    border: none;
+    position: relative;
+}
+.countries__sub{
+    font-size: 1.2rem;
+    margin-left: 0.4rem;
+    opacity: 0.8;
+}

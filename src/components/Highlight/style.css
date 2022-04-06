@@ -1,0 +1,26 @@
+.highlight__container{
+    display: flex;
+    justify-content: space-between;
+}
+.highlight__cart{
+    width: 31%;
+    font-size: 2rem;
+    padding: 2rem;
+    
+    box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
+}
+.highlight__cart:first-child{
+    border-left: 5px solid rgb(201, 48, 44);
+}
+.highlight__cart:nth-child(2){
+    border-left: 5px solid rgb(40, 167, 69);
+}
+.highlight__cart:nth-child(3){
+    border-left: 5px solid gray;
+}
+.cart__title{
+    margin-bottom: 1rem;
+}
+.cart__data{
+    font-weight: bold;
+}

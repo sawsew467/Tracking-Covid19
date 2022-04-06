@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-size: 62.5%;
+  }
+  
+  body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+.App {
+    padding: 2rem 2rem 0;
+}
+
+.title{
+    font-size: 6rem;
+}
+.date{
+    font-size: 2rem;
+    padding-top: 1rem;
+}
